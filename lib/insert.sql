@@ -1,4 +1,4 @@
-INSERT INTO bears (name, age, gender) values
+INSERT INTO bears (name, age, gender) VALUES
 ("Mr. Chocolate", 7, "M"),
 ("Rowdy", 1, "M"),
 ("Tabitha", 2, "F"),
