@@ -1,8 +1,9 @@
-INSERT INTO bears (name) VALUES ("Mr. Chocolate");
-INSERT INTO bears (name) VALUES ("Rowdy");
-INSERT INTO bears (name) VALUES ("Tabitha");
-INSERT INTO bears (name) VALUES ("Sergeant Brown");
-INSERT INTO bears (name) VALUES ("Melissa");
-INSERT INTO bears (name) VALUES ("Grinch");
-INSERT INTO bears (name) VALUES ("Wendy");
-INSERT INTO bears (name) VALUES (NULL);
+INSERT INTO bears (name, age, gender) VALUES
+("Mr. Chocolate", 7, "M"),
+("Rowdy", 1, "M"),
+("Tabitha", 2, "F"),
+("Sergeant Brown", 3, "M"),
+("Melissa", 4, "F"),
+("Grinch", 5, "M"),
+("Wendy", 6, "F"),
+(NULL, 8, "M")
